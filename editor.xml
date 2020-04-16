@@ -4,7 +4,9 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="20" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="LINE_SPACING" value="1.0" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
