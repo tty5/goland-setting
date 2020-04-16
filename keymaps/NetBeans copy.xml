@@ -5,16 +5,27 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Rename" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="DatabaseView.CopyAction">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="EditorContextInfo" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -24,11 +35,16 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
+  <action id="Git.Reword.Commit" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
@@ -42,6 +58,11 @@
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="Move" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="RemoteHostView.Rename" />
+  <action id="RenameElement" />
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -53,6 +74,7 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelvedChanges.Rename" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
