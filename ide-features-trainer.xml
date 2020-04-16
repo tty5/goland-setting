@@ -1,0 +1,27 @@
+<application>
+  <component name="GroupManager">
+    <expandedByName>
+      <entry name="Tutorials" expanded="true" />
+      <entry name="Projects" expanded="true" />
+    </expandedByName>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="go" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="Actions" value="NOT_PASSED" />
+        <entry key="Code completion for pointers" value="NOT_PASSED" />
+        <entry key="Code completion for type assertions and switch constructions" value="NOT_PASSED" />
+        <entry key="Goland2019.2.ExtractMethodRefactoringWithReturns" value="NOT_PASSED" />
+        <entry key="Goland2019.3.DeleteUnusedParameters" value="NOT_PASSED" />
+        <entry key="Handling errors with live and postfix templates" value="NOT_PASSED" />
+        <entry key="New live and postfix templates" value="NOT_PASSED" />
+        <entry key="Quick-fixes and refactorings in GoLand 2020.1" value="NOT_PASSED" />
+        <entry key="Using the Implement Methods action" value="NOT_PASSED" />
+        <entry key="Working with types" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>
