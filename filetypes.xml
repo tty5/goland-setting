@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="dlv-init" type="PLAIN_TEXT" />
-      <mapping ext="bt" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
