@@ -1,9 +1,9 @@
-<scheme name="_@user_Default" version="142" parent_scheme="Default">
+<scheme name="_@user_Default" version="142" parent_scheme="IntelliJ Light">
   <metaInfo>
     <property name="created">2019-09-01T14:33:18</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2020-04-16T10:51:38</property>
+    <property name="modified">2020-08-12T17:37:28</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
