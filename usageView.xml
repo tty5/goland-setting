@@ -1,0 +1,11 @@
+<application>
+  <component name="GoUsageSettings">
+    <option name="SHOW_USAGES_IN_COMMENTS" value="false" />
+  </component>
+  <component name="ShowUsagesSettings">
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.44733924" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.498503" />
+  </component>
+</application>
