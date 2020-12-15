@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern="dlvinit" type="PLAIN_TEXT" />
       <mapping pattern="ecirpc" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
+      <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
