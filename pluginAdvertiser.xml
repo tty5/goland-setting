@@ -902,6 +902,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rpmmacros">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.carbonblack.intellij.rpmspec" />
+              <option name="myPluginName" value="RPM SPEC File" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sass">
           <value>
             <plugin>
@@ -962,6 +970,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.spec">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.carbonblack.intellij.rpmspec" />
+              <option name="myPluginName" value="RPM SPEC File" />
             </plugin>
           </value>
         </entry>
