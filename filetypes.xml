@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="sd-pub" type="PLAIN_TEXT" />
       <mapping pattern="dlv-init" type="PLAIN_TEXT" />
       <mapping ext="bt" type="PLAIN_TEXT" />
