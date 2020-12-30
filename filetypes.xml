@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping pattern="dlvinit" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="ecirpc" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="spec" approved="true" type="PLAIN_TEXT" />
