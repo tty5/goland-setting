@@ -15,7 +15,6 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.ColumnsList" />
   <action id="CopyReference">
-    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Diff.ShowDiff" />

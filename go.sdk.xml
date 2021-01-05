@@ -2,6 +2,7 @@
   <component name="GoSdkList">
     <sdk-path>
       <set>
+        <option value="" />
         <option value="/sd/gopath/compile/go" />
         <option value="/sd/gopath/compile/go-1.14" />
       </set>

@@ -1,10 +1,10 @@
-<scheme name="_@user_Material Solarized Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Material Solarized Light" version="142" parent_scheme="IntelliJ Light">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-11-08T10:32:46</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-08T14:29:21</property>
+    <property name="modified">2020-08-12T17:37:28</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -65,7 +65,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="c8c3b5" />
     <option name="SELECTED_TEARLINE_COLOR" value="839496" />
     <option name="SELECTION_BACKGROUND" value="e2dccb" />
-    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="e2dccb" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="d33682c0" />
@@ -169,10 +168,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.INTERNAL_COMMAND" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -3421,7 +3416,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value />
     </option>
@@ -3501,8 +3496,8 @@
     <option name="bemhtml.keywords.delim">
       <value />
     </option>
-    <option name="com.plan9.INSTRUCTION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="com.plan9.LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="com.plan9.INSTRUCTION" baseAttributes="" />
+    <option name="com.plan9.LABEL" baseAttributes="" />
     <option name="com.plan9.PSEUDO_INSTRUCTION">
       <value>
         <option name="FOREGROUND" value="b58900" />
