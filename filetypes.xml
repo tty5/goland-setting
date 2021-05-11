@@ -1,10 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <mapping pattern=".gitmodules" type="PLAIN_TEXT" />
+      <mapping pattern="dlvinit" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="ecirpc" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="spec" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
