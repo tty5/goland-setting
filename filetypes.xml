@@ -5,9 +5,12 @@
       <mapping pattern="ecirpc" type="PLAIN_TEXT" />
       <mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="spec" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
