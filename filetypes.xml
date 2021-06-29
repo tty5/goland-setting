@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="dlvinit" type="PLAIN_TEXT" />
       <mapping pattern="vml-dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="ecirpc" type="PLAIN_TEXT" />
