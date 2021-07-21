@@ -17,6 +17,10 @@
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -58,6 +62,7 @@
     <mouse-shortcut keystroke="shift control button1" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="IncrementalSearch" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="PrevParameter" />
