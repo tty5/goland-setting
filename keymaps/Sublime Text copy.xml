@@ -17,6 +17,10 @@
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -81,6 +85,7 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
+  <action id="StartStopMacroRecording" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ToggleBookmark">
