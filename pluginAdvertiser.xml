@@ -22,6 +22,11 @@
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="AhkRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="AutoHotkey" pluginName="AutoHotkey" pluginId="de.nordgedanken.auto_hotkey" />
+                    </value>
+                  </entry>
                   <entry key="AndroidJUnit">
                     <value>
                       <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
