@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Compile" />
   <action id="Console.TableResult.ColumnsList" />
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
@@ -52,7 +53,7 @@
   <action id="FillParagraph" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
-    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="shift alt subtract" />
@@ -101,5 +102,6 @@
   <action id="UsageFiltering.Imports" />
   <action id="Vcs.ShowMessageHistory" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
 </keymap>
