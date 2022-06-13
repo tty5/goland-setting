@@ -9,6 +9,7 @@
       <mapping pattern="eci-alias" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="vml-dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="bt" type="PLAIN_TEXT" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
