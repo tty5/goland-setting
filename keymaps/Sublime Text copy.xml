@@ -1,7 +1,7 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="Back">
@@ -25,6 +25,7 @@
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
     <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="alt q" />
