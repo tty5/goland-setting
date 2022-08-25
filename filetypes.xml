@@ -3,10 +3,10 @@
     <extensionMap>
       <mapping pattern="ecirpc" type="PLAIN_TEXT" />
       <mapping pattern="dlvinit" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="eci-alias" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="vml-dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="123" type="PLAIN_TEXT" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
