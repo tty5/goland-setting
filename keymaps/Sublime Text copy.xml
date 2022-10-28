@@ -1,4 +1,5 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
@@ -88,6 +89,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
