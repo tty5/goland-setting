@@ -1,4 +1,9 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt q" />
