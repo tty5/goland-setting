@@ -2,6 +2,7 @@
   <component name="TerminalOptionsProvider">
     <option name="myHighlightHyperlinks" value="false" />
     <option name="myPasteOnMiddleMouseButton" value="false" />
+    <option name="myReportMouse" value="false" />
     <option name="mySoundBell" value="false" />
     <option name="myTabName" value="Local" />
   </component>
