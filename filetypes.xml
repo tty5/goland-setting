@@ -9,6 +9,7 @@
       <mapping pattern="vml-dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="ecirpc" type="PLAIN_TEXT" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="spec" approved="true" type="PLAIN_TEXT" />
