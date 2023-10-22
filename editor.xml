@@ -3,6 +3,18 @@
     <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="true" />
+        <entry key="js.type.hints" value="true" />
+        <entry key="qodana.yaml.inspection.descriptions" value="true" />
+        <entry key="ts.chain.hints" value="true" />
+        <entry key="ts.enum.hints" value="true" />
+        <entry key="ts.type.hints" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="IS_CARET_BLINKING" value="false" />
   </component>
