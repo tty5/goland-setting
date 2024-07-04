@@ -10,6 +10,8 @@
           <root type="composite">
             <root url="file:///usr/lib64/python3.11" type="simple" />
             <root url="file:///usr/lib64/python3.11/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib64/python3.11/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.11/site-packages" type="simple" />
             <root url="file:///usr/lib64/python3.11/site-packages" type="simple" />
             <root url="file:///usr/lib/python3.11/site-packages" type="simple" />
             <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2024.1/python_stubs/-32419095" type="simple" />
@@ -346,7 +348,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="ba49e931-b600-4c66-ab70-9f842ece1e21">
+      <additional SDK_UUID="7312826d-2d4b-4e79-a805-b55773180e4b">
         <setting name="FLAVOR_ID" value="UnixPythonSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
