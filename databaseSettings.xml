@@ -1,6 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="10">
     <option name="enable-paging-in-in-editor-result-by-default" value="true" />
+    <option name="ddl-editor-confirm-loss" value="false" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
